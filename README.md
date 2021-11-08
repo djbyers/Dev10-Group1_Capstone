@@ -7,7 +7,10 @@ Using an automated API call from the World Bank, we were able to collect data fr
 # Table of Contents
 - DatabricksAndETL - This folder contains our Databricks Jupyter Notebooks and our ETL report.
 - NapkinDrawingsAndFeedback - This folder contains our visualization and dashboard napkin drawings and the feedback we received about them.
-- Preliminary Code - This code charts our early progress through the machine learning process. We did not directly use this code in the final implementation of our machine learning.
+- code - This folder contains the following sub-folders which all have code in them:
+    - Preliminary Code - This code charts our early progress through the machine learning process. We did not directly use this code in the final implementation of our machine learning.
+    -  Final Machine Learning - This code contains the Jupyer Notebooks we used to create our final machine learning models.
+    -  Power BI Code - We used this code to create Power BI visualizations with Python.
 - Project Specifications - This folder contains our initial exploratory questions, data platform diagrams, and project management plan.
 
 # Indicator Glossary
