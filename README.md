@@ -12,6 +12,6 @@ One is to be able to produce actionable results by building our models and visua
     - Preliminary Code - This code charts our early progress through the machine learning process. We did not directly use this code in the final implementation of our machine learning.
     -  Final Machine Learning - This code contains the Jupyer Notebooks we used to create our final machine learning models.
     -  Power BI Code - We used this code to create Power BI visualizations with Python.
-- Project Specifications - This folder contains our initial exploratory questions, data platform diagrams, and project management plan.
+- Project Specifications - This folder contains our initial exploratory questions, data platform diagrams, a glossary of our variables, and project management plan.
 - FinalProjectDocuments - This folder contains our project executive summary and our presentation slides.
 
