@@ -12,6 +12,7 @@ Using an automated API call from the World Bank, we were able to collect data fr
     -  Final Machine Learning - This code contains the Jupyer Notebooks we used to create our final machine learning models.
     -  Power BI Code - We used this code to create Power BI visualizations with Python.
 - Project Specifications - This folder contains our initial exploratory questions, data platform diagrams, and project management plan.
+- FinalProjectDocuments - This folder contains our project executive summary and our presentation slides.
 
 # Indicator Glossary
 
