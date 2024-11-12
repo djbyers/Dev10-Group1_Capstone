@@ -1,5 +1,8 @@
 # Group1_Capstone
 
+This was the final project as part of the Dev10 training course.
+
+
 Broadly speaking, this project aims to use a variety of and financial factors to forecast different measures of economic and societal well-being. Our data, drawn primarily from the World Bank database, draws upon different measures of government debt, tax revenue, stock value within an economy, inflation, and GDP, among others, to predict values such as unemployment and wealth disparity.
 
 Using an automated API call from the World Bank, we were able to collect data from every registered country from the years 1990-2020. There are two main goals of our analysis.
